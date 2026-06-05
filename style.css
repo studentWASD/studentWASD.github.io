@@ -3,7 +3,7 @@
 -------------------- */
 
 :root {
-  --theme-color: #0459B3;
+  --theme-color: #0459b3;
 }
 
 * {
@@ -16,7 +16,7 @@ html, body {
 }
 
 body {
-  margin: 0;
+  margin: auto;
   padding: 30px;
   color: #333;
 }
@@ -28,6 +28,7 @@ body {
 h1, h2, h3 {
   color: var(--theme-color);
   border-bottom: dashed 0.1em var(--theme-color);
+  background-color: #82acd9;
 }
 
 /* --------------------
