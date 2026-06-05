@@ -11,12 +11,13 @@
 }
 
 html, body {
-  width: 100%;
+  width: 500px;
   height: 100%;
 }
 
 body {
-  margin: auto;
+  margin-right: auto;
+  margin-left: auto;
   padding: 30px;
   color: #333;
 }
