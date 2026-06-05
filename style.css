@@ -17,7 +17,8 @@ html, body {
 }
 
 body {
-  margin: auto;
+  margin-right: auto;
+  margin-left: auto;
   padding: 30px;
   color: #333;
   background-color: #cccccc;
@@ -28,12 +29,12 @@ body {
 -------------------- */
 
 h1, h2, h3 {
-  padding: 10px 12px;
+  padding: 0.4em 0.5em;
   color: var(--theme-color);
   border-bottom: dashed 0.1em var(--theme-color);
   background-color: #e6eff8;
-  border-left: 5px #ceb7f7;
-  border-bottom: 3px #cde2f7;
+  border-left: solid 0.2em #ceb7f7;
+  border-bottom: solid 0.1em #cde2f7;
 }
 
 /* --------------------
