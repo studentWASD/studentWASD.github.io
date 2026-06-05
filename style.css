@@ -21,12 +21,12 @@ body {
   margin-left: auto;
   padding: 30px;
   color: #333;
-  background-color: #ffffff;
+  background-color: #cccccc;
 }
 
 p {
-  box-shadow: 0 0 0.1em #0459b33b;
-  background-color: #cccccc;
+  box-shadow: 0 0 0.2em #0459b33b;
+  background-color: #ffffff;
 }
 
 /* --------------------
