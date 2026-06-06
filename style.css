@@ -41,7 +41,7 @@ img {
 -------------------- */
 
 h1, h2, h3 {
-  padding: 1em 0.5em 0.4em;
+  padding: 0.4em 0.5em;
   color: var(--theme-color);
   background-color: #e6eff8;
   border: solid 0.2em #e7dbf8;
