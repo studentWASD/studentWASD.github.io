@@ -12,7 +12,7 @@
 
 html, body {
   width: 100%;
-  maxwidth: 1100%;
+  maxwidth: 600%;
   height: 100%;
   margin: auto;
 }
@@ -41,7 +41,7 @@ h1, h2, h3 {
   border-bottom: dashed 0.1em var(--theme-color);
   background-color: #e6eff8;
   border-left: solid 0.8em #ceb7f7;
-  border-bottom: solid 0.4em #9484b2;
+  border-bottom: solid 0.2em #9484b2;
 }
 
 /* --------------------
