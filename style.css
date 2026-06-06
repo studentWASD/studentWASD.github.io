@@ -12,15 +12,13 @@
 
 html, body {
   width: 100%;
-  maxwidth: 800px;
+  max-width: 800px;
   height: 100%;
   margin: auto;
 }
 
 body {
-  margin-right: auto;
-  margin-left: auto;
-  padding: 30px;
+  padding: 1em;
   color: #333;
   background-color: #110033;
 }
