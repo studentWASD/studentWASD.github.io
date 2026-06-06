@@ -12,12 +12,12 @@
 
 html, body {
   width: 100%;
-  max-width: 1000px;
   height: 100%;
   margin: auto;
 }
 
 body {
+  max-width: 1000px;
   padding: 1em;
   color: #333;
   background-color: #110033;
@@ -25,7 +25,7 @@ body {
 
 p {
   box-shadow: 0 0 0.5em #0459b3cc;
-  pudding: 2em;
+  padding: 2em;
   background-color: #ffffff;
 }
 
@@ -41,19 +41,9 @@ img {
 h1, h2, h3 {
   padding: 0.4em 0.5em;
   color: var(--theme-color);
-  border-bottom: dashed 0.1em var(--theme-color);
   background-color: #e6eff8;
   border-left: solid 0.8em #ceb7f7;
   border-bottom: solid 0.2em #9484b2;
-}
-
-/* --------------------
-        リンク
--------------------- */
-
-a {
-  color: var(--theme-color);
-  text-decoration: none;
 }
 
 /* --------------------
@@ -62,7 +52,7 @@ a {
 
 ul {
   list-style: none;
-  pudding: 0.5em;
+  padding: 0.5em;
   box-shadow: 0 0 0.2em #0459b33b;
   background-color: #ffffff;
 }
@@ -70,29 +60,4 @@ li:before {
   content: "◎";
   margin-right: 0.5em;
   color: var(--theme-color);
-}
-
-/* --------------------
-          表
--------------------- */
-
-table {
-  border-spacing: 0;
-  border-collapse: collapse;
-  border: solid 1px #f0f0f0;
-  min-width: 70%;
-}
-tr {
-  background-color: #fff;
-}
-tr:nth-child(2n) {
-  background-color: #f9f9f9;
-}
-th {
-  background: var(--theme-color);
-  color: #fff;
-}
-th, td {
-  border: solid 1px #f0f0f0;
-  padding: 0.5rem;
 }
