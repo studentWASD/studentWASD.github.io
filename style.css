@@ -53,9 +53,11 @@ h1, h2, h3 {
 -------------------- */
 
 ul {
+  box-shadow: 0 0 0.5em #ffffff;
+  border: solid 0.2em #ceb7f7;
+  border-bottom: solid 0.2em #9484b2;
   list-style: none;
   padding: 0.5em;
-  box-shadow: 0 0 0.2em #0459b33b;
   background-color: #ffffff;
 }
 li:before {
