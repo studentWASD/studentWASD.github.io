@@ -18,7 +18,7 @@ html, body {
 
 body {
   max-width: 1000px;
-  padding: 1em;
+  padding: 1em 1em 4em;
   color: #333;
   background-color: #110033;
 }
@@ -27,7 +27,7 @@ p {
   box-shadow: 0 0 0.5em #ffffff;
   border: solid 0.2em #ceb7f7;
   border-bottom: solid 0.2em #9484b2;
-  padding: 0.5em;
+  padding: 0.5em 0.5em 2em;
   background-color: #ffffff;
 }
 
