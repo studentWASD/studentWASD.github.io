@@ -12,7 +12,7 @@
 
 html, body {
   width: 100%;
-  max-width: 800px;
+  max-width: 1000px;
   height: 100%;
   margin: auto;
 }
@@ -27,6 +27,11 @@ p {
   box-shadow: 0 0 0.5em #0459b3cc;
   pudding: 1em;
   background-color: #ffffff;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 /* --------------------
