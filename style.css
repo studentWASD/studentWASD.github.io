@@ -22,12 +22,12 @@ body {
   margin-left: auto;
   padding: 30px;
   color: #333;
-  background-color: #cccccc;
+  background-color: #110033;
 }
 
 p {
-  box-shadow: 0 0 0.2em #0459b33b;
-  pudding: 0.5em;
+  box-shadow: 0 0 0.5em #0459b33b;
+  pudding: 1em;
   background-color: #ffffff;
 }
 
