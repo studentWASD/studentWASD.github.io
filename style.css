@@ -44,8 +44,10 @@ h1, h2, h3 {
   padding: 0.4em 0.5em;
   color: var(--theme-color);
   background-color: #e6eff8;
+  border: solid 0.2em #e7dbf8;
   border-left: solid 0.8em #ceb7f7;
   border-bottom: solid 0.2em #9484b2;
+  box-shadow: 0 0 1em #000000;
 }
 
 /* --------------------
