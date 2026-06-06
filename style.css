@@ -18,7 +18,7 @@ html, body {
 
 body {
   max-width: 1000px;
-  padding: 1em;
+  padding: 0.5em
   color: #333;
   background-color: #110033;
 }
@@ -27,7 +27,6 @@ p {
   box-shadow: 0 0 0.5em #ffffff;
   border: solid 0.2em #ceb7f7;
   border-bottom: solid 0.2em #9484b2;
-  padding: 0.5em;
   background-color: #ffffff;
 }
 
@@ -41,7 +40,6 @@ img {
 -------------------- */
 
 h1, h2, h3 {
-  padding: 0.4em 0.5em;
   color: var(--theme-color);
   background-color: #e6eff8;
   border: solid 0.2em #e7dbf8;
